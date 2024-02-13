@@ -1,0 +1,7 @@
+azure-search-documents==11.4.0b6
+openai
+azure-functions
+langchain
+azure-storage-blob
+PyPDF2
+azure-identity
