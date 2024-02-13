@@ -4,6 +4,8 @@ Welcome to SecureBot, a pioneering RAG chatbot developed for **The AI Chat App**
 
 Utilizing Azure Cognitive Search, SecureBot excels in retrieving precise information, ensuring users have access to the latest and most relevant cybersecurity advice and data. Whether you're a professional in the field, a student learning about cybersecurity, or simply curious, SecureBot is designed to assist you with accurate information retrieval, leveraging AI to navigate through a vast array of resources efficiently.
 
+SecureBot uses the text-embedding-ada-002 model to create the embedigs and Gpt-4 to answer user questions in the best possible way.
+
 Join us in exploring the future of cybersecurity with SecureBot, where AI meets expertise to provide you with reliable, cutting-edge information.
 
 # How does RAG work?
